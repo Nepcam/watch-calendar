@@ -55,3 +55,4 @@ function showWatch() {
     
 }
 
+setInterval(showWatch, 1000);
